@@ -352,13 +352,35 @@
 	  "EHB": 8.5,
 	  "Drops": [
 		{
-		  "Item": "Crystal weapon seed",
-		  "DropRate": 50
+		  "Item": "Spectral sigil",
+		  "DropRate": 1365
 		},
 		{
-		  "Item": "Crystal armour seed",
-		  "DropRate": 50
-		}
+		  "Item": "Arcane sigil",
+		  "DropRate": 1365
+		},
+		{
+			"Item": "Elysian sigil",
+			"DropRate": 4095
+		  },
+		  {
+			"Item": "Spirit Shield",
+			"DropRate": 64
+		  },
+		  {
+			"Item": "Holy elixir",
+			"DropRate": 171
+		  },
+		  {
+			"Item": "Jar of spirits",
+			"DropRate": 1000,
+			"Type": "jar"
+		  },
+		  {
+			"Item": "Pet dark core",
+			"DropRate": 5000,
+			"Type": "pet"
+		  }
 	  ]
 	},
 	{
